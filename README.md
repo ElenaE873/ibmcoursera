@@ -11,6 +11,6 @@ You are here.
 •	The final project on Clustering and Segmentation for Capstone IBM Data Science Certificate
 
 •	It has 3 files:
-o	 the Jupyter Notebook with code / project.
-o	The Introduction & data description, brief description.
-o	IBM Data Science Professional Certificate Project – Report (doc).
+1 - the Jupyter Notebook with code / project.
+2 - The Introduction & data description, brief description.
+3 = IBM Data Science Professional Certificate Project – Report (doc).
