@@ -12,5 +12,7 @@ You are here.
 
 •	It has 3 files:
 1 - the Jupyter Notebook with code / project.
+
 2 - The Introduction & data description, brief description.
+
 3 = IBM Data Science Professional Certificate Project – Report (doc).
